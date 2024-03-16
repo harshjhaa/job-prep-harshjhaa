@@ -1,0 +1,15 @@
+.post-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.post-card {
+  width: 200px;
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 1rem;
+}
+.btn {
+  margin: 0.5rem;
+}

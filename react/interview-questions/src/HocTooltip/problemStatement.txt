@@ -1,0 +1,4 @@
+1. Create a simple tooltip using react.
+2. Make use of the concept of HOC.
+
+Follow best coding and folder sctructure practices.

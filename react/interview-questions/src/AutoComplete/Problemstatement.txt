@@ -1,0 +1,6 @@
+1. Make an autocomplete using React.
+2. It should have 1 input field.
+3. When typing in the input field it should show suggestions.
+4. Clicking on the suggestions, should get the data in the input.
+
+Apply best coding and folder sctructure practices. (can use debouncing, custom-hook, etc..)

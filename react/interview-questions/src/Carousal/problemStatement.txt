@@ -1,0 +1,5 @@
+1. Make a custom carousal in react without using any external libraries.
+2. You can fetch the images using url from google.
+3. All the basic carousal functionalities should work.
+
+Use best coding principles for developing this.

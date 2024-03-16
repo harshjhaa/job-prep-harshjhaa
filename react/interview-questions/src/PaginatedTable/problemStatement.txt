@@ -1,0 +1,5 @@
+1. Make a table to display the contents form the api - "https://dummyjson.com/products".
+2. Apply pagination on the table.
+3. Apply sorting to each column in the table when the header is clicked. //not done
+
+Make sure to use best coding practices to perform above task.

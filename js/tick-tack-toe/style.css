@@ -1,0 +1,18 @@
+#board {
+  display: inline-block;
+}
+
+.row {
+  display: flex;
+  /* flex-direction: column; */
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  padding: 10px;
+}

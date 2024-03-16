@@ -1,0 +1,2 @@
+1. Create an input field such that if we enter anything inside it, the text can be displayed below it.
+2. It should be very customizable.

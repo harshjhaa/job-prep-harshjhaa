@@ -1,0 +1,8 @@
+1. Make a start rating application using reactjs.
+2. There should be 5 starts in total.
+3. User can select 1, 2, 3, 4, 5 stars.
+4. If the user select 1 start the color of selected star should be red.
+5. If the user select 2 and 3 start the color of selected star should be yellow.
+6. If the user select 4 and 5 start the color of selected star should be green.
+
+Use best coding and folder structure practices in making this application.

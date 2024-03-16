@@ -1,0 +1,14 @@
+Get post api- https://jsonplaceholder.typicode.com/posts?_limit=10&_page=${page}
+Get comments for particualr post api - https://jsonplaceholder.typicode.com/posts/{post_id}/comments
+
+1. Fetch posts and show it in a card (using <ul/> and <li/>)
+
+2. Each element of the list should have title and body
+
+3. Get comments (by calling the api) after selecting/clicking a post from the list.
+
+4. Show the comment in a list below the selected/clicked post.
+
+5. Each element of the list should show name and body.
+
+6. Apply infinite scrolling, when the user scroll the page the next page data should be fetched.
